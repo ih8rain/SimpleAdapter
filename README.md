@@ -1,2 +1,2 @@
 # SimpleAdapter
-![image](https://github.com/ih8rain/SimpleAdapter/tree/master/Images/simpleadapter.png)
+![image](https://github.com/ih8rain/SimpleAdapter/tree/master/Images/SimpleAdapter.gif)
